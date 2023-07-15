@@ -1,8 +1,8 @@
 {
-    "name": "astro-lane",
+    "name": "astro-nutritrack",
     "type": "module",
     "version": "1.0.0",
-    "description": "Lane - A personal portfolio landing template for developers and designers. Made by Avenue Labs",
+    "description": "NutriTrack - A personal portfolio landing template for developers and designers. Made by Avenue Labs",
     "main": "index.astro",
     "private": false,
     "keywords": [
@@ -34,13 +34,13 @@
         "@astrojs/tailwind": "^3.1.1",
         "@resvg/resvg-js": "^2.4.1",
         "astro": "^2.3.0",
-        "astro-icon": "^0.8.0",
+        "astro-icon": "^0.8.1",
         "eslint-config-next": "13.1.2",
         "framer-motion": "^10.11.2",
         "remark-toc": "^8.0.1",
         "sass": "^1.54.4",
-        "tailwindcss": "^3.3.1",
-        "satori": "^0.4.3"
+        "satori": "^0.4.3",
+        "tailwindcss": "^3.3.1"
     },
     "devDependencies": {
         "@astrojs/prefetch": "^0.2.1",
