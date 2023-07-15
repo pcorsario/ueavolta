@@ -18,24 +18,10 @@ body {
     // @apply grid gap-8 sm:gap-16;
 }
 
-
-@layer utilities {
-
-    .card-clip {
- 
-        clip-path: inset(4px round 40px);
-        &:hover {
-            clip-path: inset(0px round 44px);
-        }
- 
-    }
- 
- }
-
-@layer components {
-    .header-nav--menu {
-        .active {
-            @apply bg-primary-700 text-white lg:text-black lg:bg-white;
+.content {
+    &.text-xl {
+        p {
+            @apply leading-7;
         }
     }
 }
