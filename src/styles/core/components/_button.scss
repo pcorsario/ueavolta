@@ -14,7 +14,7 @@
         @apply bg-primary-500;
     }
     .btn--secondary {
-        @apply bg-secondary-500;
+        @apply bg-secondary-500 hover:bg-secondary-500/80;
     }
     .btn--outline {
         @apply border border-[1px] border-black bg-white text-black hover:text-white;
