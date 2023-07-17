@@ -7,11 +7,11 @@ const { class: className, imageClass, width, height, alt, src } = Astro.props;
 <div class={`card--image ${className && className}`}>
     <Image
         src={src}
-        width={width}
-        height={height}
+        width={width ? width : 672}
+        height={height ? height : 452}
         alt={alt}
         loading="lazy"
-        aspectRatio={1 / 1}
+        aspectRatio={3 / 2}
         format={"webp"}
         class={`object-cover ${imageClass && imageClass}`}
     />

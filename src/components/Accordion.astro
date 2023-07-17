@@ -9,14 +9,14 @@ const accordionItemType = {
     bottom: "border border-t-0 rounded-b-lg"
 };
 
-const { faqData } = Astro.props;
+const { accordionData } = Astro.props;
 ---
 
 <SectionContainer
-    class="accordion--container my-16 drop-shadow-xl max-w-3xl mx-auto offset-y-0 offset-x-8"
+    class="accordion--container my-16 drop-shadow-xl max-w-3xl w-full mx-auto offset-y-0 offset-x-8"
 >
     {
-        faqData.map((accordionItem, index) => (
+        accordionData.map((accordionItem, index) => (
             <div
                 id={accordionItem.id}
                 class={clsx(
@@ -24,8 +24,9 @@ const { faqData } = Astro.props;
                     {
                         [accordionItemType.top]: index === 0,
                         [accordionItemType.default]:
-                            index > 0 && index < faqData.length - 1,
-                        [accordionItemType.bottom]: index === faqData.length - 1
+                            index > 0 && index < accordionData.length - 1,
+                        [accordionItemType.bottom]:
+                            index === accordionData.length - 1
                     }
                 )}
             >
