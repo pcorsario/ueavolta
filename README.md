@@ -6,9 +6,9 @@
   Astro NutriTrack - Avenue Labs landing page template 🚀
 </h1>
 
-[![christian-luntok - astro-nutritrack](https://img.shields.io/static/v1?label=christian-luntok&message=astro-nutritrack&color=FFC56E&logo=github)](https://github.com/christian-luntok/astro-nutritrack "Go to GitHub repo") [![GitHub tag](https://img.shields.io/github/tag/christian-luntok/astro-nutritrack?include_prereleases=&sort=semver&color=FFC56E)](https://github.com/christian-luntok/astro-nutritrack/releases/) [![License](https://img.shields.io/badge/License-MIT-FFC56E)](#license) 
+[![christian-luntok - astro-nutritrack](https://img.shields.io/static/v1?label=christian-luntok&message=astro-nutritrack&color=FFC56E&logo=github)](https://github.com/christian-luntok/astro-nutritrack "Go to GitHub repo") [![GitHub tag](https://img.shields.io/badge/tag-v1.0.0-FFC56E)](https://github.com/christian-luntok/astro-nutritrack/releases/) [![License](https://img.shields.io/badge/License-MIT-FFC56E)](#license) 
 
-NutriTrack is a customizable AstroJS landing page theme that offers personalized styling and easy customization. Tailored to provide a minimal design, it allows you to effortlessly create a site that suits your requirements. You can easily make use of the components and customize the code to mix and match to suit your needs.
+A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators. Tailored to provide a minimal design, it allows you to effortlessly create a site that suits your requirements. You can easily make use of the components and customize the code to mix and match to suit your needs.
 
 <hr>
 

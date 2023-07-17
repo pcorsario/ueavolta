@@ -2,7 +2,7 @@
     "name": "astro-nutritrack",
     "type": "module",
     "version": "1.0.0",
-    "description": "NutriTrack - A personal portfolio landing template for developers and designers. Made by Avenue Labs",
+    "description": "NutriTrack - A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators. Made by Avenue Labs",
     "main": "index.astro",
     "private": false,
     "keywords": [
