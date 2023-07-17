@@ -14,67 +14,43 @@ import { MotionBTTContainer } from "./motion/MotionBTTContainer.jsx";
 
 <SectionContainer class="page-banner--container py-16">
     <SectionContainer class="page-banner--inner-container wrap wrap-px z-10">
-        {/* Appear First */}
-        <MotionBTTContainer
-            transition={{ delay: 0.2, duration: 0.5 }}
-            client:load
-        >
-            <BadgeGroup alignment="center">
-                <BadgeMessage>Discover NutriTrack!</BadgeMessage>
-                <BadgeIcon icon="mdi:hand-wave" />
-            </BadgeGroup>
-        </MotionBTTContainer>
-        {/* Appear Second */}
-        <MotionBTTContainer
-            transition={{ delay: 0.4, duration: 0.5 }}
-            client:load
-        >
-            <PageTitle class="text-center mx-auto" type="heavy">
-                The effortless way to plan your meals with the power of Notion.
-            </PageTitle>
-        </MotionBTTContainer>
-        {/* Appear Third */}
-        <MotionBTTContainer
-            transition={{ delay: 0.6, duration: 0.5 }}
-            client:load
-        >
-            <Content class="text-center" alignment="center">
-                <p>
-                    Streamline your nutrition journey and achieve your health
-                    goals with ease.{" "}
-                </p>
-            </Content>
-            <div class="mt-6 mb-16 text-center">
-                <ButtonGroup alignment="center">
-                    <Button href="#features">Features</Button>
-                    <a
-                        role="button"
-                        href="https://avenuelabs.lemonsqueezy.com/checkout/buy/df8ccd46-fa63-4384-b2aa-c4c9b8ad3ef0?embed=1"
-                        class="btn btn--secondary lemonsqueezy-button"
-                    >
-                        Get Template
-                        <Icon name="mdi:arrow-right" class="w-6" />
-                    </a>
-                </ButtonGroup>
-            </div>
-        </MotionBTTContainer>
-        {/* Appear Fourth */}
-        <MotionBTTContainer
-            transition={{ delay: 0.8, duration: 0.5 }}
-            client:load
-        >
-            <div class="page-banner--image">
-                <Image
-                    src={"/images/nutritrack-hero-banner.png"}
-                    width={1024}
-                    height={680}
-                    alt={"Page Banner"}
-                    objectFit={"cover"}
-                    aspectRatio={16 / 9}
-                    format={"webp"}
-                    class="mx-auto"
-                />
-            </div>
-        </MotionBTTContainer>
+        <BadgeGroup alignment="center">
+            <BadgeMessage>Discover NutriTrack!</BadgeMessage>
+            <BadgeIcon icon="mdi:hand-wave" />
+        </BadgeGroup>
+        <PageTitle class="text-center mx-auto" type="heavy">
+            The effortless way to plan your meals with the power of Notion.
+        </PageTitle>
+        <Content class="text-center" alignment="center">
+            <p>
+                Streamline your nutrition journey and achieve your health goals
+                with ease.{" "}
+            </p>
+        </Content>
+        <div class="mt-6 mb-16 text-center">
+            <ButtonGroup alignment="center">
+                <Button href="#features">Features</Button>
+                <a
+                    role="button"
+                    href="https://avenuelabs.lemonsqueezy.com/checkout/buy/df8ccd46-fa63-4384-b2aa-c4c9b8ad3ef0?embed=1"
+                    class="btn btn--secondary lemonsqueezy-button"
+                >
+                    Get Template
+                    <Icon name="mdi:arrow-right" class="w-6" />
+                </a>
+            </ButtonGroup>
+        </div>
+        <div class="page-banner--image">
+            <Image
+                src={"/images/nutritrack-hero-banner.png"}
+                width={1024}
+                height={680}
+                alt={"Page Banner"}
+                objectFit={"cover"}
+                aspectRatio={16 / 9}
+                format={"webp"}
+                class="mx-auto"
+            />
+        </div>
     </SectionContainer>
 </SectionContainer>
