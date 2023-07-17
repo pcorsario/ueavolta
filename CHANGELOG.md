@@ -4,17 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## 1.0.0 Initial Release
 
-### Features
+## Key Features:
 
 -   Minimal styling (make it your own!)
 -   Accessible, semantic HTML markup
 -   Blazingly Fast
 -   100/100 Lighthouse performance
--   Responsive & SEO-friendly with canonical URLs and OpenGraph data
--   [Astro Image Integration](https://docs.astro.build/en/guides/integrations-guide/image/) for optimized images
+-   Responsive & SEO-friendly with canonical URLs, OpenGraph data and Meta tags.
 -   Sitemap support
--   [Automatic RSS feed support](https://docs.astro.build/en/guides/rss)
--   [Satori](https://github.com/vercel/satori) for creating open graph png images.
--   Markdown & MDX support
--   Draft Posts and Paginations
--   Prism code syntax styling using Atom Dark theme.
+-   More than 10+ Components to use!
