@@ -3,10 +3,8 @@
 </div>
 
 <h1 align="center">
-  Astro NutriTrack - Avenue Labs landing page template 🚀
+  Astro NutriTrack - A landing page template 🚀
 </h1>
-
-[![christian-luntok - astro-nutritrack](https://img.shields.io/static/v1?label=christian-luntok&message=astro-nutritrack&color=FFC56E&logo=github)](https://github.com/christian-luntok/astro-nutritrack "Go to GitHub repo") [![GitHub tag](https://img.shields.io/badge/tag-v1.0.0-FFC56E)](https://github.com/christian-luntok/astro-nutritrack/releases/) [![License](https://img.shields.io/badge/License-MIT-FFC56E)](#license) 
 
 A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators. Tailored to provide a minimal design, it allows you to effortlessly create a site that suits your requirements. You can easily make use of the components and customize the code to mix and match to suit your needs.
 
@@ -21,7 +19,7 @@ A customizable landing page theme built with AstroJS and TailwindCSS, specifical
 -   Blazingly Fast
 -   100/100 Lighthouse performance
 -   Responsive & SEO-friendly with canonical URLs, OpenGraph data and Meta tags.
--   Sitemap support
+-  Sitemap support
 - More than 10+ Components to use!
 
 
@@ -33,7 +31,7 @@ NutriTrack scores 100/100 in the Lighthouse performance audit.
 
 ## Demo
 
-Check out the [Demo](https://astro-nutritrack.avenuelabs.co/), hosted on Vercel.
+Check out the [Demo](https://astro-nutritrack.chrstnl.com/), hosted on Vercel.
 
 ## Commands
 
@@ -55,7 +53,7 @@ env: {
   siteTitle: 'Your Company',
   siteDescription: 'Your company description.',
   siteKeywords: 'your company keywords',
-  siteUrl: 'https://astro-nutritrack.avenuelabs.co/',
+  siteUrl: 'https://astro-nutritrack.chrstnl.com/',
   siteImagePreviewUrl: '/images/preview.jpeg',
   twitterHandle: '@your_handle'
 }
@@ -81,14 +79,10 @@ You can deploy your own Astro site on various platforms by following the [Astro 
 
 By default, the site will be built (see Commands section above) to a `/dist` directory.
 
-## License
-
-Licensed under [MIT](/LICENSE) by [Christian Luntok](https://github.com/christian-luntok).
-
 ## Feedback and Suggestions
 
-If you have any suggestions/feedback, you can contact the creator, Christian Luntok, via [hey@avenuelabs.co](mailto:hey@avenuelabs.co). Alternatively, feel free to open an issue if you find bugs or want to request new features.
+If you have any suggestions/feedback feel free to open an issue if you find bugs or want to request new features.
 
 ---
 
-Made by [Christian Luntok - Avenue Labs](https://avenuelabs.co/)
+Made by [chrstnl](https://chrstnl.com/)

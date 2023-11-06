@@ -8,7 +8,7 @@ import prefetch from "@astrojs/prefetch";
 
 // https://astro.build/config
 export default defineConfig({
-    site: "https://www.astro-nutritrack.avenuelabs.co/",
+    site: "https://astro-nutritrack.chrstnl.com/",
     vite: {
         optimizeDeps: {
             exclude: ["@resvg/resvg-js"]

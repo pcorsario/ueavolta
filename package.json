@@ -1,8 +1,8 @@
 {
     "name": "astro-nutritrack",
     "type": "module",
-    "version": "1.0.0",
-    "description": "NutriTrack - A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators. Made by Avenue Labs",
+    "version": "1.1.0",
+    "description": "NutriTrack - A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators.",
     "main": "index.astro",
     "private": false,
     "keywords": [
@@ -17,8 +17,8 @@
         "tailwindcss",
         "tailwind"
     ],
-    "author": "Avenue Labs - Christian Luntok",
-    "homepage": "https://www.avenuelabs.co/",
+    "author": "chrstnl",
+    "homepage": "https://www.chrstnl.com/",
     "scripts": {
         "dev": "astro dev",
         "start": "astro dev",
