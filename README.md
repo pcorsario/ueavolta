@@ -6,7 +6,7 @@
   Astro NutriTrack - A landing page template 🚀
 </h1>
 
-A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators. Tailored to provide a minimal design, it allows you to effortlessly create a site that suits your requirements. You can easily make use of the components and customize the code to mix and match to suit your needs.
+A simple landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators. It's easy to customize, allowing you to create a minimalistic site that fits your style using its versatile components.
 
 <hr>
 
