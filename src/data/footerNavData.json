@@ -1,13 +1,13 @@
 [
     {
-        "title": "Template",
+        "title": "MINEDUC",
         "items": [
             {
-                "label": "Features",
+                "label": "Misión",
                 "href": "#features"
             },
             {
-                "label": "Testimonials",
+                "label": "Figuras Profesionales",
                 "href": "#testimonials"
             },
             {
@@ -17,26 +17,26 @@
         ]
     },
     {
-        "title": "Company",
+        "title": "Redes Sociales",
         "items": [
             {
                 "label": "About",
-                "href": "https://github.com/christian-luntok/astro-nutritrack",
+                "href": "#",
                 "target": "_blank"
             },
             {
-                "label": "Twitter",
-                "href": "https://github.com/christian-luntok/astro-nutritrack",
+                "label": "X",
+                "href": "#",
                 "target": "_blank"
             },
             {
                 "label": "Instagram",
-                "href": "https://github.com/christian-luntok/astro-nutritrack",
+                "href": "#",
                 "target": "_blank"
             },
             {
                 "label": "Facebook",
-                "href": "https://github.com/christian-luntok/astro-nutritrack",
+                "href": "https://www.facebook.com/unidadeducativa.alessandrovoltasd/",
                 "target": "_blank"
             }
         ]

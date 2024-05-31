@@ -3,48 +3,37 @@
         "id": 1,
         "title": "Electricidad",
         "icon": "mdi:electron-framework",
-        "content": "NutriPlan has revolutionized my meal planning and nutrition journey. With its intuitive Notion template, I can effortlessly plan my meals, track my nutrition, and stay on top of my health goals. It's truly a game-changer!"
+        "content": "Realizar la instalación y el mantenimiento de servicios eléctricos específicos, incluidos los sistemas automatizados, líneas de enlace de energía eléctrica en baja tensión y máquinas eléctricas estáticas y rotativas, en el entorno de edificaciones, cumpliendo los estándares y normas de calidad, seguridad y ambientales."
     },
     {
         "id": 2,
         "title": "Electromecánica Automotriz",
         "icon": "mdi:tools",
-        "content": "I've tried various meal planning tools, but NutriPlan stands out from the rest. The customizable layouts and seamless recipe integration make it a breeze to create delicious and healthy meals. It's become an essential part of my wellness routine."
+        "content": "Realizar el diagnóstico y mantenimiento de motores de combustión interna, tren de rodaje, sistemas eléctricos-electrónicos, de seguridad y confortabilidad de vehículos automotores, conforme con las especificaciones técnicas del fabricante y regulaciones de entidades de control, en condiciones de seguridad e higiene laboral y protección del ecosistema."
     },
     {
         "id": 3,
         "title": "Electrónica",
         "icon": "mdi:cpu-64-bit",
-        "content": "NutriPlan has made meal planning and tracking nutrition so much easier and enjoyable. The comprehensive features and user-friendly interface have helped me stay on track with my health goals. I highly recommend it to anyone looking for a convenient and effective solution."
+        "content": "Instalar y mantener equipos electrónicos de consumo, de sonido e imagen, microinformáticos y de telecomunicación realizando el servicio técnico posventa en condiciones de calidad y tiempo de respuesta adecuados, aplicando normas técnicas y ambientales."
     },
     {
         "id": 4,
         "title": "Informática",
         "icon": "mdi:monitor-cellphone-star",
-        "content": "I can't imagine my nutrition journey without NutriPlan. It has simplified the way I plan my meals and track my progress. The ability to customize layouts and easily integrate recipes has made healthy eating a breeze. It's been a true lifesaver!"
+        "content": "Optimizar el tratamiento de la información mediante el procesamiento automático, utilizando lenguajes de programación, bases de datos, herramientas ofimáticas, redes informáticas, herramientas web, sistemas operativos y soporte técnico; proponiendo soluciones creativas e innovadoras que respondan a los requerimientos de los usuarios, aplicando procedimientos y metodologías informáticas vigentes."
     },
     {
         "id": 5,
         "title": "Comercialización y Ventas",
         "icon": "mdi:shopping-outline",
-        "content": "I can't imagine my nutrition journey without NutriPlan. It has simplified the way I plan my meals and track my progress. The ability to customize layouts and easily integrate recipes has made healthy eating a breeze. It's been a true lifesaver!"
+        "content": "Ejecutar operaciones de almacenamiento y expedición de mercaderías, desarrollo del proceso de venta de productos y/o servicios y la aplicación de técnicas de animación en el punto de venta, utilizando la normativa vigente y herramientas tecnológicas con eficiencia y responsabilidad social."
     },
     {
         "id": 6,
         "title": "Ciencias Generales",
         "icon": "mdi:mortar-pestle-plus",
-        "content": "I can't imagine my nutrition journey without NutriPlan. It has simplified the way I plan my meals and track my progress. The ability to customize layouts and easily integrate recipes has made healthy eating a breeze. It's been a true lifesaver!"
-    },
-    {
-        "id": 7,
-        "title": "Inicial",
-        "icon": "mdi:human-female-boy",
-        "content": "I can't imagine my nutrition journey without NutriPlan. It has simplified the way I plan my meals and track my progress. The ability to customize layouts and easily integrate recipes has made healthy eating a breeze. It's been a true lifesaver!"
-    },
-    {
-        "id": 8,
-        "title": "Educación General Básica",
-        "icon": "mdi:chair-school",
-        "content": "I can't imagine my nutrition journey without NutriPlan. It has simplified the way I plan my meals and track my progress. The ability to customize layouts and easily integrate recipes has made healthy eating a breeze. It's been a true lifesaver!"
+        "content": "Ofrece una formación en áreas científico-humanísticas, mediante las asignaturas del tronco común, y podrán tener componentes y menciones específicas y especializadas. "
     }
+    
 ]

@@ -17,7 +17,7 @@
         "tailwindcss",
         "tailwind"
     ],
-    "author": "chrstnl",
+    "author": "pcorsario",
     "homepage": "https://www.chrstnl.com/",
     "scripts": {
         "dev": "astro dev",
