@@ -6,19 +6,19 @@ const { columnData } = Astro.props;
 ---
 
 <SectionContainer
-    class="benefits-lists grid gap-x-8 gap-y-16 grid-cols-1 md:grid-cols-2 lg:grid-cols-4 mt-16"
+    class="benefits-lists grid gap-x-8 gap-y-16 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-16 "
 >
     {
         columnData.map((item) => (
             <div
                 id={item.id}
-                class="benefits-list--item text-[#737373] text-left"
+                class="benefits-list--item text-[#737373] text-left block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
             >
                 <Icon name={item.icon} class="mb-4 w-10 h-10 my-2" />
                 <h3 class="text-xl mb-2 font-medium text-black">
                     {item.title}
                 </h3>
-                <p class="text-justify">{item.content}</p>
+                <p class="">{item.content}</p>
                 {/* <o class="flex">
                     <Icon name="mdi:star" class="h-6 mr-1 text-secondary-500" />
                     <Icon name="mdi:star" class="h-6 mr-1 text-secondary-500" />
